@@ -1,7 +1,8 @@
 # Restaurant POS System
 
 # Run To Program
-```python app.py
+```bash
+python app.py
 
 - POS System
 - Restaurant Billing System
